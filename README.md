@@ -1,5 +1,6 @@
-# student-bio
-Bonus activity from 2nd lesson.
+# Student Bio
 
-
+## Description
+FRONT-END WEB DEVELOPMENT BOOTCAMP
+Lesson 01.2 
 Activity: CSS Styled Bio Page.
